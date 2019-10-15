@@ -192,7 +192,7 @@ a:hover {
   position: fixed;
   top: 0;
   width: 100%;
-  background: #fff;
+  background: #f9c474;
   color: #fff;
   transition: all 0.2s ease-out 0s;
   padding: 15px 0;
@@ -203,7 +203,7 @@ a:hover {
 
 .top-bar.animated-header {
   padding: 20px 0;
-  background: #fff;
+  background: #f9c474;
   box-shadow: none;
 }
 
@@ -215,11 +215,11 @@ a:hover {
 }
 
 .navbar.bg-light {
-  background: #fff !important;
+  background: #f9c474 !important;
 }
 
 .navbar .nav-item .nav-link {
-  color: #444 !important;
+  color: #323953 !important;
   font-size: 14px;
   font-weight: 500;
   transition: .3s all;
@@ -229,7 +229,7 @@ a:hover {
 }
 
 .navbar .nav-item .nav-link:hover {
-  color: #02bdd5 !important;
+  color: #fff !important;
 }
 
 .navbar .nav-item:last-child .nav-link {
